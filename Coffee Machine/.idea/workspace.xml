@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f90ddb80-a6e1-485e-be24-56477df1dce8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.localized" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Projects/Dark Mode Toggle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Projects/JS Practice Assignments/Assignment 1a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Projects/JS Practice Assignments/Assignment1b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Projects/JS Practice Assignments/For_loop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Projects/JS Practice Assignments/Grade Calculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Projects/JS Practice Assignments/Product_of_two_nums.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Projects/JS Practice Assignments/do-while_loop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Projects/JS Practice Assignments/even_or_odd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Projects/JS Practice Assignments/while_loop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resume.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2ja3RaQIqvksxCaIA3ncgb7x3NJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f90ddb80-a6e1-485e-be24-56477df1dce8" name="Changes" comment="" />
+      <created>1721611352093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721611352093</updated>
+    </task>
+    <servers />
+  </component>
+</project>
