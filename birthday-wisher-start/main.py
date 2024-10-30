@@ -3,8 +3,8 @@ import datetime as dt
 import pandas
 import random
 
-MY_EMAIL = "pythoncodetester4@gmail.com"
-PASSWORD = "zaaizqkyqbbloetb"
+MY_EMAIL = "YOUR_EMAIL"
+PASSWORD = "YOUR_PASSWORD"
 
 # Check if today matches a birthday in the birthdays.csv
 today = dt.datetime.now()
