@@ -129,6 +129,7 @@ while is_on:
             else:
                 print("Sorry there is not enough coffee.")
 
+# PROGRAM_CONCEPT
 # a. If there are sufficient resources to make the drink selected, then the program should prompt the user to insert coins.
 # b. Remember that quarters = $0.25, dimes = $0.10, nickles = $0.05, pennies = $0.01
 # c. Calculate the monetary value of the coins inserted. E.g. 1 quarter, 2 dimes, 1 nickel, 2
